@@ -47,9 +47,9 @@ basic.forever(function () {
 
 ## Step 4
 
+Add the following to the ``||basic:forever||`` block
+
 ```blocks
-
-
 basic.forever(function () {
   let player: game.LedSprite = null 
   let fruit: game.LedSprite = null 
@@ -66,6 +66,7 @@ basic.forever(function () {
 
 ## Step 5
 
+Add the following to the ``||basic:forever||`` block
 ```blocks
 
 let fruit: game.LedSprite = null
