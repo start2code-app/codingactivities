@@ -11,7 +11,8 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "activity4.md"
+        "activity4.md",
+        "activity7.md"
     ],
     "testFiles": [
         "test.ts"
